@@ -1,0 +1,65 @@
+[33mcommit a7f288edccbdb30afb659f4816d242323e9122f6[m
+Merge: 18caea3 32c9122
+Author: Aaron Layton <aaron.r.layton@gmail.com>
+Date:   Mon Sep 10 12:10:24 2012 +0100
+
+    Merge branch 'Feature-1'
+
+[33mcommit 18caea31e49c2dba36b60863469f69789579cb72[m
+Author: Aaron Layton <aaron.r.layton@gmail.com>
+Date:   Mon Sep 10 11:46:54 2012 +0100
+
+    test1
+
+[33mcommit 32c91224a0b6d0f01d75b51e4f6941ac04ebbc44[m
+Author: Aaron Layton <aaron.r.layton@gmail.com>
+Date:   Mon Sep 10 11:30:26 2012 +0100
+
+    sadfssf
+
+[33mcommit 82bac4d6dc2a58c52cd022af24e26a732e7d8d47[m
+Merge: ba91f7e 5f55c61
+Author: Aaron Layton <aaron.r.layton@gmail.com>
+Date:   Fri Jun 15 10:16:58 2012 -0700
+
+    Merge pull request #11 from AaronLayton/feature-1
+    
+    Feature 1
+
+[33mcommit 5f55c61b7c454cc8ddf7a405a1cb7d69533826b0[m
+Author: Aaron Layton <aaron.r.layton@gmail.com>
+Date:   Wed May 23 18:01:06 2012 +0100
+
+    Not sure
+
+[33mcommit bd9302274f7816d1a1217e1dbe8fb591d4f7a577[m
+Author: Aaron Layton <aaron.r.layton@gmail.com>
+Date:   Wed May 23 14:19:45 2012 +0100
+
+    Awesome new feature
+
+[33mcommit 7765aa8ce4bfcd09e1f6a925584819e0a9349db5[m
+Author: Aaron Layton <aaron.r.layton@gmail.com>
+Date:   Wed May 23 09:00:35 2012 +0100
+
+    Feature 1 begin
+    
+    Started adding awesome new feature
+
+[33mcommit ba91f7ea073a1ac558a47ae9340fc995fc7ce613[m
+Author: Aaron <aaron.r.layton@gmail.com>
+Date:   Mon Apr 16 16:46:35 2012 +0100
+
+    Test link
+
+[33mcommit 31ffc8442decb75fb99a41c865936467b6ca9a36[m
+Author: Aaron <aaron.r.layton@gmail.com>
+Date:   Tue Apr 3 14:37:21 2012 +0100
+
+    fixes #10
+
+[33mcommit 9fd4b50f75607c7a5e57f7edc8041a0259552179[m
+Author: Aaron Layton <aaron.r.layton@gmail.com>
+Date:   Thu Dec 8 19:30:41 2011 +0000
+
+    First commit
