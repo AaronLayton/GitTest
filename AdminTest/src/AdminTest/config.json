@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "AdminTest"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-AdminTest-4f9df84c-4925-4ded-8028-0f41cc5be77a;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
